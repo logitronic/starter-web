@@ -5,3 +5,6 @@
 ## Purpose
 
 Sample website with plenty of files for demos
+
+#Copyright
+Added Copyright 2019
